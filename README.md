@@ -1,7 +1,4 @@
-
-
-μ-finance Manager: A web application which holds all the required operations to full fill the needs within the microfinace organisation.
-A web application which holds all the important operations required within a microfinance bank.
+μ-finance Manager: A web application which holds all the important operations required within a microfinance bank.
 
 |Worked and Managed by all members of creators| 
 EMAIL us : teamcreators7@gmail.com
